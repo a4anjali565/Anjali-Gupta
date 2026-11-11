@@ -1,0 +1,6 @@
+{
+  "name": "TeraiFlood Rapid SAR & Settlement Impact Assessment",
+  "description": "Rapid flood extent mapping, Sentinel SAR/NDWI change detection, river gauge monitoring, and settlement impact assessment for the Nepal Terai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
